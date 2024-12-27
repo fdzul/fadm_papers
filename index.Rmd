@@ -5,7 +5,7 @@ links:
   - label: Atras
     url: "https://sparkly-kleicha-e38ffa.netlify.app/"
   - label: Scientific Articles
-    url: ""
+    url: "https://resplendent-taffy-3740fa.netlify.app"
     
 output:
   postcards::trestles
